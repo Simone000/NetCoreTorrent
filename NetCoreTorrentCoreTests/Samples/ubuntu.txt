@@ -1,0 +1,27 @@
+//Working Ubuntu (Azure)
+http://torrent.ubuntu.com:6969/announce
+?info_hash=%9F%91e%D9%A2%81%A9%B8%E7%82%CDQv%BB%CC%82V%FD%18q
+&peer_id=-AZ5720-0EXIIjF1kKd6
+&supportcrypto=1
+&port=6881
+&uploaded=3735724
+&downloaded=118133605
+&left=0
+&corrupt=0
+&numwant=55
+&no_peer_id=1
+&compact=1
+&key=7FNoDITw
+
+
+
+
+
+http://torrent.ubuntu.com:6969/announce
+
+
+/announce?info_hash=%9F%91e%D9%A2%81%A9%B8%E7%82%CDQv%BB%CC%82V%FD%18q&peer_id=-AZ5720-0EXIIjF1kKd6&supportcrypto=1&port=13472&azudp=13472&uploaded=3735724&downloaded=118133605&left=0&corrupt=0&numwant=55&no_peer_id=1&compact=1&key=7FNoDITw&azver=3
+
+
+
+http://torrent.ubuntu.com:6969/announce?info_hash=%9F%91e%D9%A2%81%A9%B8%E7%82%CDQv%BB%CC%82V%FD%18q&peer_id=-AZ5720-0EXIIjF1kKd6&supportcrypto=1&port=13472&azudp=13472&uploaded=3735724&downloaded=118133605&left=0&corrupt=0&numwant=55&no_peer_id=1&compact=1&key=7FNoDITw&azver=3
